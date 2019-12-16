@@ -1,29 +1,20 @@
 <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
 
-<!--“AE” is an abbreviation of American English. Use an HTML element to provide the specified abbreviation of “AE”.--.
+    <abbr title=" American English">AE</abbr> 
 
-<html lang="en-AE">
+    <br/><br/>
 
-<head>
-  <title>December 12 Daily Challenge</title>	
-
-</head>
-
-<body>
-	
-	<!--Define the character “x” in the equation as a variable-->
-
-	<p>
-		A simple math equation:
-
-		<var>x</var> = 3 + 2;
-		
-	</p>
-
-
-
-
-
-</body>
-
+    <var> x </var> = 3 + 2;
+   
+  
+  </body>
 </html>
